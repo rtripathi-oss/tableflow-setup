@@ -52,7 +52,7 @@ resource "databricks_catalog" "unity-demo-catalog" {
   comment     = "Managed by TF"
   properties  = {}
   force_destroy = true
-  storage_root = "s3://cflt-tflow-databricks-9319/"
+  storage_root = "s3://cflt-tflow-databricks-9319/" # to change
   depends_on  = [databricks_storage_credential.external, null_resource.wait_for_iam_propagation]
 }
 
