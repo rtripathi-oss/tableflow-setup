@@ -40,13 +40,13 @@ aws_region = "us-east-2"
 # The ID of your Databricks workspace. Found in the Databricks URL (e.g., after '?o=').
 databricks_workspace_id = "databricks_workspace_id_3747160482094328"
 # The name of your Databricks workspace.
-databricks_workspace_name = "dbc-ec44276c-770b"
+databricks_workspace_name = "dbc-xxxxxxxx-770b"
 # The account ID associated with your Databricks account.
-databricks_account_id = "databricks_account_id_d6cd3dfd-5857-4f7f-92ea-f87949dcd523"
+databricks_account_id = "xxxx-5857-4f7f-92ea-xxxxxx"
 # The host URL for your Databricks workspace.
-databricks_host = "https://dbc-ec44276c-770b.cloud.databricks.com/?autoLogin=true&account_id=d6cd3dfd-5857-4f7f-92ea-f87949dcd523&o=3747160482094328"
+databricks_host = "https://dbc-ec44276c-770b.cloud.databricks.com/?autoLogin=true&account_id=xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&o=xxxxxxxxx"
 # A Databricks personal access token. Generate this in your Databricks user settings.
-databricks_token = "databricks_token_dapi35961f65af7e1f196008bc4948a1f879"
+databricks_token = "xxxxxxxxxxxx"
 # The name of the Databricks SQL Warehouse to connect to.
 databricks_sql_warehouse_name = "rakesh"
-databricks_client_id = "databricks_client_id_59e0122e-d6f6-422c-b0ff-11e4dffca010"
+databricks_client_id = "databricks_client_id_59e0122e-xxxx-xxxx-b0ff-xxxxxxx"
